@@ -1,7 +1,6 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+      这是我的第一个vue项目
   </div>
   <router-view/>
 </template>
